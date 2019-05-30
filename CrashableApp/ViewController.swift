@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import Crashlytics
 
 class ViewController: UIViewController {
 
@@ -15,6 +16,20 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func forceUnmrap(_ sender: Any) {
+        
+        //Crashlytics.sharedInstance().crash()
+        var text: String?
+        print(text!)
+    }
+    
+    
+    @IBAction func badArrayAccessed(_ sender: Any) {
+        let array = [0]
+        print(array[1])
+    }
+    
+    
+    
 }
 

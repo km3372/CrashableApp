@@ -5,7 +5,60 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>0987D2EB-9583-4A45-B425-79D03AEB4FD9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>0987D2EB-9583-4A45-B425-79D03AEB4FD9.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Pods-CrashableApp-ajpiqcjtkgljeobklrgoukvltagf</string>
+			<key>timeStartedRecording</key>
+			<real>580852641.12433004</real>
+			<key>timeStoppedRecording</key>
+			<real>580852641.19487</real>
+			<key>title</key>
+			<string>Build target Pods-CrashableApp</string>
+			<key>uniqueIdentifier</key>
+			<string>0987D2EB-9583-4A45-B425-79D03AEB4FD9</string>
+		</dict>
+		<key>15DBBC5E-8058-443A-9084-89E0D3C03F04</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>15DBBC5E-8058-443A-9084-89E0D3C03F04.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>CrashableApp-gtysikddrvehsdagnfuqmijixemu</string>
+			<key>timeStartedRecording</key>
+			<real>580852678.05893099</real>
+			<key>timeStoppedRecording</key>
+			<real>580852678.08423603</real>
+			<key>title</key>
+			<string>Build target CrashableApp</string>
+			<key>uniqueIdentifier</key>
+			<string>15DBBC5E-8058-443A-9084-89E0D3C03F04</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>

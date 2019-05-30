@@ -12,6 +12,7 @@
 		302F59A3229D846C0054630F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 302F59A1229D846C0054630F /* Main.storyboard */; };
 		302F59A5229D846E0054630F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 302F59A4229D846E0054630F /* Assets.xcassets */; };
 		302F59A8229D846E0054630F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 302F59A6229D846E0054630F /* LaunchScreen.storyboard */; };
+		EAA694AC1F44DAEDC12C2C2E /* Pods_CrashableApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FDB288585A4B639C92FEC378 /* Pods_CrashableApp.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,9 @@
 		302F59A4229D846E0054630F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		302F59A7229D846E0054630F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		302F59A9229D846E0054630F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9CF402D6026618BDE141E568 /* Pods-CrashableApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CrashableApp.debug.xcconfig"; path = "Target Support Files/Pods-CrashableApp/Pods-CrashableApp.debug.xcconfig"; sourceTree = "<group>"; };
+		FC02BB69A4BED8AF4F49C67E /* Pods-CrashableApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CrashableApp.release.xcconfig"; path = "Target Support Files/Pods-CrashableApp/Pods-CrashableApp.release.xcconfig"; sourceTree = "<group>"; };
+		FDB288585A4B639C92FEC378 /* Pods_CrashableApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CrashableApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +33,29 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EAA694AC1F44DAEDC12C2C2E /* Pods_CrashableApp.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		117DA9C3972554697AD9605B /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				9CF402D6026618BDE141E568 /* Pods-CrashableApp.debug.xcconfig */,
+				FC02BB69A4BED8AF4F49C67E /* Pods-CrashableApp.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		302F5991229D846C0054630F = {
 			isa = PBXGroup;
 			children = (
 				302F599C229D846C0054630F /* CrashableApp */,
 				302F599B229D846C0054630F /* Products */,
+				117DA9C3972554697AD9605B /* Pods */,
+				46052E588D8CDA445FB8E14D /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -64,6 +80,14 @@
 			path = CrashableApp;
 			sourceTree = "<group>";
 		};
+		46052E588D8CDA445FB8E14D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FDB288585A4B639C92FEC378 /* Pods_CrashableApp.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -71,9 +95,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 302F59AC229D846E0054630F /* Build configuration list for PBXNativeTarget "CrashableApp" */;
 			buildPhases = (
+				6587C1A9D24E1196353CF261 /* [CP] Check Pods Manifest.lock */,
 				302F5996229D846C0054630F /* Sources */,
 				302F5997229D846C0054630F /* Frameworks */,
 				302F5998229D846C0054630F /* Resources */,
+				302F59AF229D8C470054630F /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -129,6 +155,49 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		302F59AF229D8C470054630F /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"$(BUILT_PRODUCTS_DIR)/$(INFOPLIST_PATH)",
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Fabric/run\" 0eef741e3d3c62a75be45fcc764a1c2f2db6afb8 c72f38208eadf841fd54368323284e8730f76b274299fd34caf4f0978d939e9a\n";
+		};
+		6587C1A9D24E1196353CF261 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-CrashableApp-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		302F5996229D846C0054630F /* Sources */ = {
@@ -280,9 +349,11 @@
 		};
 		302F59AD229D846E0054630F /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9CF402D6026618BDE141E568 /* Pods-CrashableApp.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = 33L2ZKF2XN;
 				INFOPLIST_FILE = CrashableApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -298,6 +369,7 @@
 		};
 		302F59AE229D846E0054630F /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FC02BB69A4BED8AF4F49C67E /* Pods-CrashableApp.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;

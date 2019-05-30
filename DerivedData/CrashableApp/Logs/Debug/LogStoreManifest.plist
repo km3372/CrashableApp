@@ -5,6 +5,391 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>425D9012-AF30-4823-B756-D8FFE87E5E3E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>425D9012-AF30-4823-B756-D8FFE87E5E3E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CrashableApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CrashableApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CrashableApp</string>
+			<key>timeStartedRecording</key>
+			<real>580834792.222453</real>
+			<key>timeStoppedRecording</key>
+			<real>580834798.20564699</real>
+			<key>title</key>
+			<string>Debug CrashableApp</string>
+			<key>uniqueIdentifier</key>
+			<string>425D9012-AF30-4823-B756-D8FFE87E5E3E</string>
+		</dict>
+		<key>4630D5D0-6F24-403B-8C63-F90A1EF82AE6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4630D5D0-6F24-403B-8C63-F90A1EF82AE6.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CrashableApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CrashableApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CrashableApp</string>
+			<key>timeStartedRecording</key>
+			<real>580835322.46877599</real>
+			<key>timeStoppedRecording</key>
+			<real>580835331.38303304</real>
+			<key>title</key>
+			<string>Debug CrashableApp</string>
+			<key>uniqueIdentifier</key>
+			<string>4630D5D0-6F24-403B-8C63-F90A1EF82AE6</string>
+		</dict>
+		<key>484159F4-7B8E-470B-8D11-489F05254178</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>484159F4-7B8E-470B-8D11-489F05254178.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CrashableApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CrashableApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CrashableApp</string>
+			<key>timeStartedRecording</key>
+			<real>580852642.73769701</real>
+			<key>timeStoppedRecording</key>
+			<real>580852676.807338</real>
+			<key>title</key>
+			<string>Debug CrashableApp</string>
+			<key>uniqueIdentifier</key>
+			<string>484159F4-7B8E-470B-8D11-489F05254178</string>
+		</dict>
+		<key>61FA5928-D3D6-43F0-893A-FCBA56397BD0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>61FA5928-D3D6-43F0-893A-FCBA56397BD0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CrashableApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CrashableApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CrashableApp</string>
+			<key>timeStartedRecording</key>
+			<real>580849803.14324903</real>
+			<key>timeStoppedRecording</key>
+			<real>580849844.89037204</real>
+			<key>title</key>
+			<string>Debug CrashableApp</string>
+			<key>uniqueIdentifier</key>
+			<string>61FA5928-D3D6-43F0-893A-FCBA56397BD0</string>
+		</dict>
+		<key>65101D13-6ED0-4283-B585-877082504190</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>65101D13-6ED0-4283-B585-877082504190.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CrashableApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CrashableApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CrashableApp</string>
+			<key>timeStartedRecording</key>
+			<real>580851292.84771502</real>
+			<key>timeStoppedRecording</key>
+			<real>580851302.15953398</real>
+			<key>title</key>
+			<string>Debug CrashableApp</string>
+			<key>uniqueIdentifier</key>
+			<string>65101D13-6ED0-4283-B585-877082504190</string>
+		</dict>
+		<key>6B83BE1F-6366-4C5D-9D3D-BFF135B9D0E9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6B83BE1F-6366-4C5D-9D3D-BFF135B9D0E9.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CrashableApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CrashableApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CrashableApp</string>
+			<key>timeStartedRecording</key>
+			<real>580834812.09385598</real>
+			<key>timeStoppedRecording</key>
+			<real>580834829.63919997</real>
+			<key>title</key>
+			<string>Debug CrashableApp</string>
+			<key>uniqueIdentifier</key>
+			<string>6B83BE1F-6366-4C5D-9D3D-BFF135B9D0E9</string>
+		</dict>
+		<key>8CE23341-4766-40F4-98BD-6CFF9FA426AB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8CE23341-4766-40F4-98BD-6CFF9FA426AB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CrashableApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CrashableApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CrashableApp</string>
+			<key>timeStartedRecording</key>
+			<real>580850412.49085701</real>
+			<key>timeStoppedRecording</key>
+			<real>580850426.73805106</real>
+			<key>title</key>
+			<string>Debug CrashableApp</string>
+			<key>uniqueIdentifier</key>
+			<string>8CE23341-4766-40F4-98BD-6CFF9FA426AB</string>
+		</dict>
+		<key>922D5C47-2032-4571-961C-09403785801B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>922D5C47-2032-4571-961C-09403785801B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CrashableApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CrashableApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CrashableApp</string>
+			<key>timeStartedRecording</key>
+			<real>580850333.95855403</real>
+			<key>timeStoppedRecording</key>
+			<real>580850354.92117095</real>
+			<key>title</key>
+			<string>Debug CrashableApp</string>
+			<key>uniqueIdentifier</key>
+			<string>922D5C47-2032-4571-961C-09403785801B</string>
+		</dict>
+		<key>9F53EA69-5271-41C9-B9BA-D9CFFCE14B62</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9F53EA69-5271-41C9-B9BA-D9CFFCE14B62.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CrashableApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CrashableApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CrashableApp</string>
+			<key>timeStartedRecording</key>
+			<real>580850576.52448106</real>
+			<key>timeStoppedRecording</key>
+			<real>580850584.08002305</real>
+			<key>title</key>
+			<string>Debug CrashableApp</string>
+			<key>uniqueIdentifier</key>
+			<string>9F53EA69-5271-41C9-B9BA-D9CFFCE14B62</string>
+		</dict>
+		<key>B1986D61-D858-496D-B979-82918645F2C5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B1986D61-D858-496D-B979-82918645F2C5.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CrashableApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CrashableApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CrashableApp</string>
+			<key>timeStartedRecording</key>
+			<real>580849976.691607</real>
+			<key>timeStoppedRecording</key>
+			<real>580849995.60991895</real>
+			<key>title</key>
+			<string>Debug CrashableApp</string>
+			<key>uniqueIdentifier</key>
+			<string>B1986D61-D858-496D-B979-82918645F2C5</string>
+		</dict>
+		<key>CB90B218-68CF-4CF6-9AFB-F12EEC4DA6DA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CB90B218-68CF-4CF6-9AFB-F12EEC4DA6DA.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CrashableApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CrashableApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CrashableApp</string>
+			<key>timeStartedRecording</key>
+			<real>580850182.43466604</real>
+			<key>timeStoppedRecording</key>
+			<real>580850226.94530594</real>
+			<key>title</key>
+			<string>Debug CrashableApp</string>
+			<key>uniqueIdentifier</key>
+			<string>CB90B218-68CF-4CF6-9AFB-F12EEC4DA6DA</string>
+		</dict>
+		<key>D0EEE38C-EB50-4048-B282-FE0379B2C790</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D0EEE38C-EB50-4048-B282-FE0379B2C790.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CrashableApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CrashableApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug CrashableApp</string>
+			<key>timeStartedRecording</key>
+			<real>580852678.08857906</real>
+			<key>timeStoppedRecording</key>
+			<real>580852687.23455906</real>
+			<key>title</key>
+			<string>Debug CrashableApp</string>
+			<key>uniqueIdentifier</key>
+			<string>D0EEE38C-EB50-4048-B282-FE0379B2C790</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

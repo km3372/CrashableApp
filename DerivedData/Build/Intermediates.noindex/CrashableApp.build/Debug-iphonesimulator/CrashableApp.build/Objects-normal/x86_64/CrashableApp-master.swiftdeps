@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "eb23203745e45b4b294a524145fbc2bf"
+build_time: [1559159841, 208804000]
+inputs:
+  "/Users/kennethmoody/Desktop/iOS projects/CrashableApp/CrashableApp/ViewController.swift": [1559159828, 843232502]
+  "/Users/kennethmoody/Desktop/iOS projects/CrashableApp/CrashableApp/AppDelegate.swift": [1559062506, 411451170]
